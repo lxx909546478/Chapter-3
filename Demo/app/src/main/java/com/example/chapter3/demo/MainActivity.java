@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         bindActivity(R.id.btn_scale_demo, ScalePropertyActivity.class);
         bindActivity(R.id.btn_transition_demo, TransitionActivity.class);
         bindActivity(R.id.btn_lottie_demo, LottieActivity.class);
+
         bindActivity(R.id.btn_fragment_lifecycle_demo, LifecycleFragmentActivity.class);
         bindActivity(R.id.btn_fragment_add_demo, DynamicAddFragmentActivity.class);
         bindActivity(R.id.btn_view_pager, ViewPagerActivity.class);
